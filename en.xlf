@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:slr="urn:oasis:names:tc:xliff:sizerestriction:2.0" version="2.0" srcLang="en-US" trgLang="en">
+  <file original="global" id="global">
+    <slr:profiles generalProfile="xliff:codepoints"/>
+    <unit id="acp_test_7">
+      <segment>
+        <source>The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words.</source>
+        <target>The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words.</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_1">
+      <segment>
+        <source>Testing automated project creation... status: {state}</source>
+        <target>Testing automated project creation... status: {state}</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_2">
+      <segment>
+        <source>Testing automated project creation again...</source>
+        <target>Testing automated project creation again...</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_3">
+      <segment>
+        <source>Hello World!</source>
+        <target>Hello World!</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_4">
+      <segment>
+        <source>MyBrand</source>
+        <target>MyBrand</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_5">
+      <segment>
+        <source>Today is a great day for Machine Translation!</source>
+        <target>Today is a great day for Machine Translation!</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_6">
+      <segment>
+        <source>This is some more text. Please translate it.</source>
+        <target>This is some more text. Please translate it.</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_8">
+      <segment>
+        <source>Today is such a great day!</source>
+        <target>Today is such a great day!</target>
+      </segment>
+    </unit>
+    <unit id="gitlab_key">
+      <segment>
+        <source>This is from Gitlab!</source>
+        <target>This is from Gitlab!</target>
+      </segment>
+    </unit>
+    <unit id="icu_plural">
+      <segment>
+        <source>{nrOfChairs, plural, zero{There are no chairs.} one{There is one chair.} other{There are # chairs.}}</source>
+        <target>{nrOfChairs, plural, zero{There are no chairs.} one{There is one chair.} other{There are # chairs.}}</target>
+      </segment>
+    </unit>
+    <unit id="my_key">
+      <segment>
+        <source>This is a translation.</source>
+        <target>This is a translation.</target>
+      </segment>
+    </unit>
+    <unit id="my_key_2">
+      <segment>
+        <source>This is another translation.</source>
+        <target>This is another translation.</target>
+      </segment>
+    </unit>
+    <unit id="my_key_3">
+      <segment>
+        <source>This is yet another translation.</source>
+        <target>This is yet another translation.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
