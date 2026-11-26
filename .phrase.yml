@@ -7,8 +7,8 @@ phrase:
       params:
         file_format: xliff_2
     - file: ./path/to/json-files/<locale_code>.json
-        params:
-          file_format: json
+      params:
+        file_format: json
   pull:
     targets:
     - file: ./<locale_name>.xlf
