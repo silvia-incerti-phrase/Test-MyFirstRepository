@@ -16,4 +16,4 @@ phrase:
         file_format: xliff_2
     - file: ./<locale_name>.json
       params:
-        file_format: json
+        file_format: simple_json
