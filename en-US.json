@@ -89,6 +89,7 @@
   "reviews.rating_summary": "{rating} out of 5 stars ({count} reviews)",
   "newsletter.title": "Stay in the loop",
   "newsletter.subscribe": "Subscribe",
+  "newsletter.unsubscribe": "Unsubscribe",
   "newsletter.success": "You're subscribed! Check your inbox to confirm.",
   "footer.copyright": "© {year} Acme Inc. All rights reserved."
 }
