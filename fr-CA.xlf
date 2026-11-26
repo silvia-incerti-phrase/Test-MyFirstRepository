@@ -2,5 +2,569 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:slr="urn:oasis:names:tc:xliff:sizerestriction:2.0" version="2.0" srcLang="en-US" trgLang="fr-CA">
   <file original="global" id="global">
     <slr:profiles generalProfile="xliff:codepoints"/>
+    <unit id="acp_test_7">
+      <segment>
+        <source>The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words.</source>
+        <target>Les langues européennes sont membres de la même famille. Leur existence distincte est un mythe. Pour la science, la musique, le sport, etc., l'Europe utilise le même vocabulaire. Les langues ne diffèrent que par leur grammaire, leur prononciation et leurs mots les plus courants.</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_1">
+      <segment>
+        <source>Testing automated project creation... status: {state}</source>
+        <target>Test de la création automatisée de projet... statut : {state}</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_2">
+      <segment>
+        <source>Testing automated project creation again...</source>
+        <target>Nouveau test de la création automatisée de projet...</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_3">
+      <segment>
+        <source>Hello World!</source>
+        <target>Bonjour le monde !</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_4">
+      <segment>
+        <source>MyBrand</source>
+        <target>MyBrand</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_5">
+      <segment>
+        <source>Today is a great day for Machine Translation!</source>
+        <target>Aujourd'hui est une excellente journée pour la traduction automatique !</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_6">
+      <segment>
+        <source>This is some more text. Please translate it.</source>
+        <target>Voici un peu plus de texte. Veuillez le traduire.</target>
+      </segment>
+    </unit>
+    <unit id="apc_test_8">
+      <segment>
+        <source>Today is such a great day!</source>
+        <target>Aujourd'hui est une si belle journée !</target>
+      </segment>
+    </unit>
+    <unit id="auth.login.email_label">
+      <segment>
+        <source>Email address</source>
+        <target>Adresse courriel</target>
+      </segment>
+    </unit>
+    <unit id="auth.login.forgot_password">
+      <segment>
+        <source>Forgot your password?</source>
+        <target>Mot de passe oublié ?</target>
+      </segment>
+    </unit>
+    <unit id="auth.login.password_label">
+      <segment>
+        <source>Password</source>
+        <target>Mot de passe</target>
+      </segment>
+    </unit>
+    <unit id="auth.login.submit">
+      <segment>
+        <source>Log in</source>
+        <target>Connectez-vous</target>
+      </segment>
+    </unit>
+    <unit id="auth.login.title">
+      <segment>
+        <source>Welcome back</source>
+        <target>Bon retour</target>
+      </segment>
+    </unit>
+    <unit id="auth.logout.button">
+      <segment>
+        <source>Log out</source>
+        <target>Se déconnecter</target>
+      </segment>
+    </unit>
+    <unit id="auth.logout.confirmation">
+      <segment>
+        <source>You have been logged out successfully.</source>
+        <target>Vous avez été déconnecté avec succès.</target>
+      </segment>
+    </unit>
+    <unit id="auth.signup.submit">
+      <segment>
+        <source>Sign up</source>
+        <target>Inscrivez-vous</target>
+      </segment>
+    </unit>
+    <unit id="auth.signup.terms">
+      <segment>
+        <source>By signing up, you agree to our Terms of Service and Privacy Policy.</source>
+        <target>En vous inscrivant, vous acceptez nos Conditions d'utilisation et notre Politique de confidentialité.</target>
+      </segment>
+    </unit>
+    <unit id="auth.signup.title">
+      <segment>
+        <source>Create your account</source>
+        <target>Créez votre compte</target>
+      </segment>
+    </unit>
+    <unit id="cart.checkout_button">
+      <segment>
+        <source>Proceed to checkout</source>
+        <target>Passer à la caisse</target>
+      </segment>
+    </unit>
+    <unit id="cart.empty">
+      <segment>
+        <source>Your cart is empty.</source>
+        <target>Votre panier est vide.</target>
+      </segment>
+    </unit>
+    <unit id="cart.item_count">
+      <segment>
+        <source>You have {count} items in your cart.</source>
+        <target>Vous avez {count} articles dans votre panier.</target>
+      </segment>
+    </unit>
+    <unit id="cart.remove_item">
+      <segment>
+        <source>Remove</source>
+        <target>Supprimer</target>
+      </segment>
+    </unit>
+    <unit id="cart.subtotal">
+      <segment>
+        <source>Subtotal</source>
+        <target>Sous-total</target>
+      </segment>
+    </unit>
+    <unit id="cart.title">
+      <segment>
+        <source>Your shopping cart</source>
+        <target>Votre panier d'achat</target>
+      </segment>
+    </unit>
+    <unit id="checkout.order_confirmed">
+      <segment>
+        <source>Thank you! Your order #{order_id} has been confirmed.</source>
+        <target>Merci ! Votre commande numéro {order_id} a été confirmée.</target>
+      </segment>
+    </unit>
+    <unit id="checkout.payment_method">
+      <segment>
+        <source>Payment method</source>
+        <target>Mode de paiement</target>
+      </segment>
+    </unit>
+    <unit id="checkout.place_order">
+      <segment>
+        <source>Place order</source>
+        <target>Passer la commande</target>
+      </segment>
+    </unit>
+    <unit id="checkout.promo_code_applied">
+      <segment>
+        <source>Promo code applied. You saved {amount}.</source>
+        <target>Code promotionnel appliqué. Vous avez économisé {amount}.</target>
+      </segment>
+    </unit>
+    <unit id="checkout.promo_code_label">
+      <segment>
+        <source>Promo code</source>
+        <target>Code promotionnel</target>
+      </segment>
+    </unit>
+    <unit id="checkout.shipping_address">
+      <segment>
+        <source>Shipping address</source>
+        <target>Adresse de livraison</target>
+      </segment>
+    </unit>
+    <unit id="common.cancel">
+      <segment>
+        <source>Cancel</source>
+        <target>Annuler</target>
+      </segment>
+    </unit>
+    <unit id="common.confirm">
+      <segment>
+        <source>Confirm</source>
+        <target>Confirmer</target>
+      </segment>
+    </unit>
+    <unit id="common.delete">
+      <segment>
+        <source>Delete</source>
+        <target>Supprimer</target>
+      </segment>
+    </unit>
+    <unit id="common.edit">
+      <segment>
+        <source>Edit</source>
+        <target>Modifier</target>
+      </segment>
+    </unit>
+    <unit id="common.search_placeholder">
+      <segment>
+        <source>Search...</source>
+        <target>Rechercher...</target>
+      </segment>
+    </unit>
+    <unit id="dashboard.empty_state">
+      <segment>
+        <source>You don't have any projects yet. Create your first one to get started.</source>
+        <target>Vous n'avez pas encore de projets. Créez votre premier projet pour commencer.</target>
+      </segment>
+    </unit>
+    <unit id="dashboard.greeting">
+      <segment>
+        <source>Hello, {name}!</source>
+        <target>Bonjour, {name} !</target>
+      </segment>
+    </unit>
+    <unit id="dashboard.last_login">
+      <segment>
+        <source>Last login: {date}</source>
+        <target>Dernière connexion : {date}</target>
+      </segment>
+    </unit>
+    <unit id="dashboard.new_project">
+      <segment>
+        <source>New project</source>
+        <target>Nouveau projet</target>
+      </segment>
+    </unit>
+    <unit id="dashboard.recent_activity">
+      <segment>
+        <source>Recent activity</source>
+        <target>Activité récente</target>
+      </segment>
+    </unit>
+    <unit id="errors.generic">
+      <segment>
+        <source>Something went wrong. Please try again.</source>
+        <target>Une erreur est survenue. Veuillez réessayer.</target>
+      </segment>
+    </unit>
+    <unit id="errors.invalid_email">
+      <segment>
+        <source>Please enter a valid email address.</source>
+        <target>Veuillez entrer une adresse courriel valide.</target>
+      </segment>
+    </unit>
+    <unit id="errors.network">
+      <segment>
+        <source>We couldn't connect to the server. Check your internet connection and try again.</source>
+        <target>Nous n'avons pas pu nous connecter au serveur. Vérifiez votre connexion Internet et réessayez.</target>
+      </segment>
+    </unit>
+    <unit id="errors.not_found">
+      <segment>
+        <source>The page you are looking for doesn't exist.</source>
+        <target>La page que vous recherchez n'existe pas.</target>
+      </segment>
+    </unit>
+    <unit id="errors.password_too_short">
+      <segment>
+        <source>Your password must be at least {min_length} characters long.</source>
+        <target>Votre mot de passe doit comporter au moins {min_length} caractères.</target>
+      </segment>
+    </unit>
+    <unit id="errors.required_field">
+      <segment>
+        <source>This field is required.</source>
+        <target>Ce champ est obligatoire.</target>
+      </segment>
+    </unit>
+    <unit id="feedback.thank_you">
+      <segment>
+        <source>Thanks for your feedback! It helps us improve.</source>
+        <target>Merci de vos commentaires ! Ils nous aident à nous améliorer.</target>
+      </segment>
+    </unit>
+    <unit id="footer.copyright">
+      <segment>
+        <source>© {year} Acme Inc. All rights reserved.</source>
+        <target>© {year} Acme Inc. Tous droits réservés.</target>
+      </segment>
+    </unit>
+    <unit id="gitlab_key">
+      <segment>
+        <source>This is from Gitlab!</source>
+        <target>Ceci provient de GitLab !</target>
+      </segment>
+    </unit>
+    <unit id="help.chat_with_us">
+      <segment>
+        <source>Chat with us</source>
+        <target>Clavardez avec nous</target>
+      </segment>
+    </unit>
+    <unit id="help.contact_support">
+      <segment>
+        <source>Contact support</source>
+        <target>Contacter le soutien</target>
+      </segment>
+    </unit>
+    <unit id="help.faq_title">
+      <segment>
+        <source>Frequently asked questions</source>
+        <target>Foire aux questions</target>
+      </segment>
+    </unit>
+    <unit id="icu_plural">
+      <segment>
+        <source>{nrOfChairs, plural, zero{There are no chairs.} one{There is one chair.} other{There are # chairs.}}</source>
+        <target>{nrOfChairs, plural, zero{Il n'y a aucune chaise.} one{Il y a une chaise.} other{Il y a # chaises.}}</target>
+      </segment>
+    </unit>
+    <unit id="my_key">
+      <segment>
+        <source>This is a translation.</source>
+        <target>Ceci est une traduction.</target>
+      </segment>
+    </unit>
+    <unit id="my_key_2">
+      <segment>
+        <source>This is another translation.</source>
+        <target>Ceci est une autre traduction.</target>
+      </segment>
+    </unit>
+    <unit id="my_key_3">
+      <segment>
+        <source>This is yet another translation.</source>
+        <target>Ceci est encore une autre traduction.</target>
+      </segment>
+    </unit>
+    <unit id="nav.account">
+      <segment>
+        <source>My account</source>
+        <target>Mon compte</target>
+      </segment>
+    </unit>
+    <unit id="nav.home">
+      <segment>
+        <source>Home</source>
+        <target>Accueil</target>
+      </segment>
+    </unit>
+    <unit id="nav.pricing">
+      <segment>
+        <source>Pricing</source>
+        <target>Tarification</target>
+      </segment>
+    </unit>
+    <unit id="nav.products">
+      <segment>
+        <source>Products</source>
+        <target>Produits</target>
+      </segment>
+    </unit>
+    <unit id="nav.support">
+      <segment>
+        <source>Support</source>
+        <target>Soutien</target>
+      </segment>
+    </unit>
+    <unit id="newsletter.subscribe">
+      <segment>
+        <source>Subscribe</source>
+        <target>S'abonner</target>
+      </segment>
+    </unit>
+    <unit id="newsletter.success">
+      <segment>
+        <source>You're subscribed! Check your inbox to confirm.</source>
+        <target>Vous êtes abonné ! Consultez votre boîte de réception pour confirmer.</target>
+      </segment>
+    </unit>
+    <unit id="newsletter.title">
+      <segment>
+        <source>Stay in the loop</source>
+        <target>Restez au courant</target>
+      </segment>
+    </unit>
+    <unit id="newsletter.unsubscribe">
+      <segment>
+        <source>Unsubscribe</source>
+        <target>Se désabonner</target>
+      </segment>
+    </unit>
+    <unit id="notifications.mark_all_read">
+      <segment>
+        <source>Mark all as read</source>
+        <target>Tout marquer comme lu</target>
+      </segment>
+    </unit>
+    <unit id="notifications.new_count">
+      <segment>
+        <source>You have {count} new notifications.</source>
+        <target>Vous avez {count} nouvelles notifications.</target>
+      </segment>
+    </unit>
+    <unit id="notifications.none">
+      <segment>
+        <source>You're all caught up!</source>
+        <target>Vous êtes à jour !</target>
+      </segment>
+    </unit>
+    <unit id="notifications.title">
+      <segment>
+        <source>Notifications</source>
+        <target>Notifications</target>
+      </segment>
+    </unit>
+    <unit id="orders.empty">
+      <segment>
+        <source>You haven't placed any orders yet.</source>
+        <target>Vous n'avez pas encore passé de commande.</target>
+      </segment>
+    </unit>
+    <unit id="orders.status_delivered">
+      <segment>
+        <source>Delivered</source>
+        <target>Livré</target>
+      </segment>
+    </unit>
+    <unit id="orders.status_shipped">
+      <segment>
+        <source>Shipped on {date}</source>
+        <target>Expédié le {date}</target>
+      </segment>
+    </unit>
+    <unit id="orders.title">
+      <segment>
+        <source>Order history</source>
+        <target>Historique des commandes</target>
+      </segment>
+    </unit>
+    <unit id="orders.track_package">
+      <segment>
+        <source>Track package</source>
+        <target>Suivre le colis</target>
+      </segment>
+    </unit>
+    <unit id="profile.delete_account">
+      <segment>
+        <source>Delete my account</source>
+        <target>Supprimer mon compte</target>
+      </segment>
+    </unit>
+    <unit id="profile.delete_account_warning">
+      <segment>
+        <source>This action cannot be undone. All your data will be permanently removed.</source>
+        <target>Cette action ne peut pas être annulée. Toutes vos données seront supprimées de façon permanente.</target>
+      </segment>
+    </unit>
+    <unit id="profile.display_name_label">
+      <segment>
+        <source>Display name</source>
+        <target>Nom d'affichage</target>
+      </segment>
+    </unit>
+    <unit id="profile.edit_photo">
+      <segment>
+        <source>Change photo</source>
+        <target>Changer la photo</target>
+      </segment>
+    </unit>
+    <unit id="profile.title">
+      <segment>
+        <source>My profile</source>
+        <target>Mon profil</target>
+      </segment>
+    </unit>
+    <unit id="reviews.rating_summary">
+      <segment>
+        <source>{rating} out of 5 stars ({count} reviews)</source>
+        <target>{rating} sur 5 étoiles ({count} avis)</target>
+      </segment>
+    </unit>
+    <unit id="reviews.title">
+      <segment>
+        <source>Customer reviews</source>
+        <target>Avis des clients</target>
+      </segment>
+    </unit>
+    <unit id="reviews.write">
+      <segment>
+        <source>Write a review</source>
+        <target>Rédiger un avis</target>
+      </segment>
+    </unit>
+    <unit id="search.no_results">
+      <segment>
+        <source>No results found. Try a different keyword.</source>
+        <target>Aucun résultat trouvé. Essayez un autre mot-clé.</target>
+      </segment>
+    </unit>
+    <unit id="search.results_title">
+      <segment>
+        <source>Search results for "{query}"</source>
+        <target>Résultats de recherche pour « {query} »</target>
+      </segment>
+    </unit>
+    <unit id="settings.dark_mode">
+      <segment>
+        <source>Dark mode</source>
+        <target>Mode sombre</target>
+      </segment>
+    </unit>
+    <unit id="settings.language">
+      <segment>
+        <source>Language</source>
+        <target>Langue</target>
+      </segment>
+    </unit>
+    <unit id="settings.notifications">
+      <segment>
+        <source>Email notifications</source>
+        <target>Notifications par courriel</target>
+      </segment>
+    </unit>
+    <unit id="settings.notifications_hint">
+      <segment>
+        <source>Choose which updates you would like to receive by email.</source>
+        <target>Choisissez les mises à jour que vous souhaitez recevoir par courriel.</target>
+      </segment>
+    </unit>
+    <unit id="settings.save">
+      <segment>
+        <source>Save changes</source>
+        <target>Enregistrer les modifications</target>
+      </segment>
+    </unit>
+    <unit id="settings.saved">
+      <segment>
+        <source>Your settings have been saved.</source>
+        <target>Vos paramètres ont été enregistrés.</target>
+      </segment>
+    </unit>
+    <unit id="settings.title">
+      <segment>
+        <source>Settings</source>
+        <target>Paramètres</target>
+      </segment>
+    </unit>
+    <unit id="wishlist.add">
+      <segment>
+        <source>Add to wishlist</source>
+        <target>Ajouter à la liste de souhaits</target>
+      </segment>
+    </unit>
+    <unit id="wishlist.empty">
+      <segment>
+        <source>Your wishlist is empty. Save items you love for later.</source>
+        <target>Votre liste de souhaits est vide. Enregistrez les articles que vous aimez pour plus tard.</target>
+      </segment>
+    </unit>
+    <unit id="wishlist.title">
+      <segment>
+        <source>Your wishlist</source>
+        <target>Votre liste de souhaits</target>
+      </segment>
+    </unit>
   </file>
 </xliff>
