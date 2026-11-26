@@ -1,5 +1,6 @@
 phrase:
   project_id: 5039b1f7c99a6aab548106d3a1198bc3
+  file_format: xliff
   push:
     sources:
     - file: ./<locale_name>.xlf
