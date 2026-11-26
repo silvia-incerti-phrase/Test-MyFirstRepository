@@ -56,4 +56,27 @@
   "common.delete": "Delete",
   "common.edit": "Edit",
   "common.search_placeholder": "Search..."
+  "profile.title": "My profile",
+  
+  "profile.edit_photo": "Change photo",
+  "profile.display_name_label": "Display name",
+  "profile.delete_account": "Delete my account",
+  "profile.delete_account_warning": "This action cannot be undone. All your data will be permanently removed.",
+  "orders.title": "Order history",
+  "orders.empty": "You haven't placed any orders yet.",
+  
+  "orders.status_shipped": "Shipped on {date}",
+  "orders.status_delivered": "Delivered",
+  "orders.track_package": "Track package",
+  "notifications.title": "Notifications",
+  "notifications.mark_all_read": "Mark all as read",
+  "notifications.none": "You're all caught up!",
+  
+  "notifications.new_count": "You have {count} new notifications.",
+  "search.results_title": "Search results for \"{query}\"",
+  "search.no_results": "No results found. Try a different keyword.",
+  "help.contact_support": "Contact support",
+  "help.faq_title": "Frequently asked questions",
+  "help.chat_with_us": "Chat with us",
+  "feedback.thank_you": "Thanks for your feedback! It helps us improve."
 }
